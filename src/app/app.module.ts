@@ -16,7 +16,6 @@ import { InMemoryDataService }  from './in-memory-data.service';
 import { CommonModule } from '@angular/common';
 import { EventCalendarModule } from './event-calendar/event-calendar.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MenuBarComponent } from './menu-bar/menu-bar.component';
 import { SidebarDirective } from './sidebar.directive';
 
 @NgModule({
@@ -26,7 +25,6 @@ import { SidebarDirective } from './sidebar.directive';
     EventDetailComponent,
     MessagesComponent,
     DashboardComponent,
-    MenuBarComponent,
     SidebarDirective
   ],
   imports: [
