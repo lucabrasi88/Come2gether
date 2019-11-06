@@ -19,6 +19,12 @@
     "@angular/platform-browser": "~8.2.4",
     "@angular/platform-browser-dynamic": "~8.2.4",
     "@angular/router": "~8.2.4",
+    "@ng-bootstrap/ng-bootstrap": "^5.1.2",
+    "angular-calendar": "^0.27.20",
+    "angular-in-memory-web-api": "^0.9.0",
+    "angularx-flatpickr": "^6.1.1",
+    "date-fns": "^1.30.1",
+    "flatpickr": "^4.6.3",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
